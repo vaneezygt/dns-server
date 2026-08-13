@@ -1,6 +1,6 @@
 # DNS server
 
-Just another DNS server implementation(s) made for fun but tried to stick to the specification.
+Just another DNS server implementation(s), made for fun but aiming to stick to the specification.
 
 ## Specification
 
@@ -29,10 +29,10 @@ implementations are written by hand.
 
 Each implementation is independent and lives in its own directory
 
-| Directory  | Language | Owner | Status |
-| ---------- | -------- | ----- | ------ |
-| `impl/TBD` | TBD      | TBD   | TBD    |
-| `impl/TBD` | TBD      | TBD   | TBD    |
+| Directory             | Language | Owner | Status |
+| --------------------- | -------- | ----- | ------ |
+| `implementations/TBD` | TBD      | TBD   | TBD    |
+| `implementations/TBD` | TBD      | TBD   | TBD    |
 
 ### Roadmap
 
